@@ -56,7 +56,6 @@ public class Book {
 
         private String description;
 
-
         public Builder(String isbn, String title) {
             this.isbn = isbn;
             this.title = title;

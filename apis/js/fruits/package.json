@@ -1,0 +1,16 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "sample fruit service",
+  "main": "index.js",
+  "author": "Lukas Wais",
+  "license": "MIT",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "start": "node services/index.js"
+  },
+  "dependencies": {
+    "express": "latest"
+  }
+}
